@@ -1,0 +1,762 @@
+Archive member included to satisfy reference by file (symbol)
+
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                              /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+lib/libstm32f411.a(timer.o)   src/main.o (timer_wait_ms)
+lib/libstm32f411.a(lcd_128x32.o)
+                              src/main.o (lcd_reset)
+lib/libstm32f411.a(util.o)    lib/libstm32f411.a(lcd_128x32.o) (num2str)
+lib/libstm32f411.a(spi.o)     lib/libstm32f411.a(lcd_128x32.o) (spi_master_init)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+sysclks             0x14              startup/system_stm32f4xx.o
+__lock___malloc_recursive_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+sr                  0x4               lib/libstm32f411.a(spi.o)
+__lock___sfp_recursive_mutex
+                    0x1               /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x0000000000000000       0x74 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x0000000000000000        0x0 startup/stm32f411_periph.o
+ .data          0x0000000000000000        0x0 startup/stm32f411_periph.o
+ .bss           0x0000000000000000        0x0 startup/stm32f411_periph.o
+ .data          0x0000000000000000        0x0 startup/sys_handlers.o
+ .bss           0x0000000000000000        0x0 startup/sys_handlers.o
+ .bss           0x0000000000000000        0x0 startup/rcc.o
+ .bss           0x0000000000000000        0x0 startup/system_stm32f4xx.o
+ .data          0x0000000000000000        0x0 lib/io.o
+ .data          0x0000000000000000        0x0 libshield/leds.o
+ .bss           0x0000000000000000        0x0 libshield/leds.o
+ .data          0x0000000000000000        0x0 libshield/sw.o
+ .data          0x0000000000000000        0x0 src/main.o
+ .bss           0x0000000000000000        0x0 src/main.o
+ .text          0x0000000000000000        0x0 startup/startup_stm32f411xe.o
+ .data          0x0000000000000000        0x0 startup/startup_stm32f411xe.o
+ .bss           0x0000000000000000        0x0 startup/startup_stm32f411xe.o
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xe8 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 lib/libstm32f411.a(timer.o)
+ .bss           0x0000000000000000        0x0 lib/libstm32f411.a(util.o)
+ .data          0x0000000000000000        0x0 lib/libstm32f411.a(spi.o)
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000080000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD startup/stm32f411_periph.o
+LOAD startup/sys_handlers.o
+LOAD startup/rcc.o
+LOAD startup/system_stm32f4xx.o
+LOAD lib/io.o
+LOAD libshield/leds.o
+LOAD libshield/sw.o
+LOAD src/main.o
+LOAD startup/startup_stm32f411xe.o
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcov.a
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libm.a
+LOAD lib/libstm32f411.a
+START GROUP
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x0000000020020000                _estack = 0x20020000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x198
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x198 startup/startup_stm32f411xe.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000198                . = ALIGN (0x4)
+
+.text           0x0000000008000198     0x2ea8
+                0x0000000008000198                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000198       0x40 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000080001d8       0x1c startup/sys_handlers.o
+                0x00000000080001d8                NMI_Handler
+                0x00000000080001dc                HardFault_Handler
+                0x00000000080001de                MemManage_Handler
+                0x00000000080001e0                BusFault_Handler
+                0x00000000080001e2                UsageFault_Handler
+                0x00000000080001e4                SVC_Handler
+                0x00000000080001e8                DebugMon_Handler
+                0x00000000080001ec                PendSV_Handler
+                0x00000000080001f0                SysTick_Handler
+ .text          0x00000000080001f4      0x3ec startup/rcc.o
+                0x0000000008000400                rcc_config_clock
+ .text          0x00000000080005e0      0x160 startup/system_stm32f4xx.o
+                0x00000000080005e0                SystemInit
+                0x0000000008000654                SystemCoreClockUpdate
+ .text          0x0000000008000740      0x908 lib/io.o
+                0x00000000080007bc                EXTI0_IRQHandler
+                0x00000000080007e0                EXTI1_IRQHandler
+                0x0000000008000804                EXTI2_IRQHandler
+                0x0000000008000828                EXTI3_IRQHandler
+                0x000000000800084c                EXTI4_IRQHandler
+                0x0000000008000870                EXTI9_5_IRQHandler
+                0x0000000008000940                EXTI15_10_IRQHandler
+                0x0000000008000a3c                io_configure
+                0x0000000008000f78                io_read
+                0x0000000008000f92                io_write
+                0x0000000008000fce                io_write_n
+                0x000000000800100a                io_set
+                0x0000000008001028                io_clear
+ .text          0x0000000008001048      0x140 libshield/leds.o
+                0x0000000008001048                leds_init
+                0x000000000800108c                leds
+                0x00000000080010e8                red_led
+                0x000000000800111c                green_led
+                0x0000000008001150                blue_led
+ .text          0x0000000008001188      0x174 libshield/sw.o
+                0x0000000008001188                sw_init
+                0x000000000800118e                sw_right
+                0x00000000080011d4                sw_left
+                0x000000000800121c                sw_up
+                0x0000000008001264                sw_down
+                0x00000000080012ac                sw_center
+                0x00000000080012f4                sw_input
+ .text          0x00000000080012fc      0x148 src/main.o
+                0x00000000080012fc                main
+ .text          0x0000000008001444      0x878 lib/libstm32f411.a(timer.o)
+                0x00000000080014c0                TIM2_IRQHandler
+                0x00000000080014ec                TIM3_IRQHandler
+                0x0000000008001518                TIM4_IRQHandler
+                0x0000000008001544                TIM5_IRQHandler
+                0x0000000008001570                timer_wait_ms
+                0x0000000008001708                timer_wait_us
+                0x0000000008001898                timer_tick_init
+                0x0000000008001a00                timer_start
+                0x0000000008001a1c                timer_stop
+                0x0000000008001a32                pwm_init
+                0x0000000008001b94                pwm_channel_enable
+                0x0000000008001c54                pwm_channel_disable
+                0x0000000008001c78                pwm_channel_set
+ .text          0x0000000008001cbc      0xce4 lib/libstm32f411.a(lcd_128x32.o)
+                0x0000000008001e04                lcd_reset
+                0x0000000008001efc                lcd_set_contrast
+                0x0000000008001f2c                lcd_get_contrast
+                0x0000000008001f38                lcd_width
+                0x0000000008001f3e                lcd_height
+                0x0000000008001f44                lcd_invert
+                0x0000000008001f66                lcd_setmode
+                0x0000000008001f7c                lcd_get_autoup
+                0x0000000008001f88                lcd_set_autoup
+                0x00000000080020b4                locate
+                0x00000000080020d4                cls
+                0x00000000080020f8                line
+                0x000000000800223c                rect
+                0x0000000008002308                fillrect
+                0x0000000008002388                circle
+                0x0000000008002538                fillcircle
+                0x0000000008002590                bitmap
+                0x000000000800279c                lcd_putc
+                0x0000000008002818                lcd_puts
+                0x0000000008002868                lcd_printf
+ .text          0x00000000080029a0      0x138 lib/libstm32f411.a(util.o)
+                0x00000000080029a0                num2str
+                0x0000000008002a3c                str2num
+ .text          0x0000000008002ad8      0x308 lib/libstm32f411.a(spi.o)
+                0x0000000008002b54                SPI1_IRQHandler
+                0x0000000008002c00                SPI2_IRQHandler
+                0x0000000008002c04                SPI3_IRQHandler
+                0x0000000008002c08                SPI4_IRQHandler
+                0x0000000008002c0c                SPI5_IRQHandler
+                0x0000000008002c10                spi_master_init
+                0x0000000008002d38                spi_write
+                0x0000000008002da8                spi_write_byte
+ *(.text*)
+ .text.Reset_Handler
+                0x0000000008002de0       0x4c startup/startup_stm32f411xe.o
+                0x0000000008002de0                Reset_Handler
+                0x0000000008002e12                _exit
+ .text.Default_Handler
+                0x0000000008002e2c        0x2 startup/startup_stm32f411xe.o
+                0x0000000008002e2c                RTC_Alarm_IRQHandler
+                0x0000000008002e2c                TIM1_CC_IRQHandler
+                0x0000000008002e2c                DMA2_Stream5_IRQHandler
+                0x0000000008002e2c                DMA1_Stream5_IRQHandler
+                0x0000000008002e2c                PVD_IRQHandler
+                0x0000000008002e2c                SDIO_IRQHandler
+                0x0000000008002e2c                TAMP_STAMP_IRQHandler
+                0x0000000008002e2c                TIM1_UP_TIM10_IRQHandler
+                0x0000000008002e2c                I2C3_ER_IRQHandler
+                0x0000000008002e2c                I2C2_EV_IRQHandler
+                0x0000000008002e2c                DMA1_Stream2_IRQHandler
+                0x0000000008002e2c                FPU_IRQHandler
+                0x0000000008002e2c                DMA2_Stream2_IRQHandler
+                0x0000000008002e2c                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008002e2c                DMA2_Stream3_IRQHandler
+                0x0000000008002e2c                USART6_IRQHandler
+                0x0000000008002e2c                DMA2_Stream0_IRQHandler
+                0x0000000008002e2c                I2C1_EV_IRQHandler
+                0x0000000008002e2c                DMA1_Stream6_IRQHandler
+                0x0000000008002e2c                DMA1_Stream1_IRQHandler
+                0x0000000008002e2c                RCC_IRQHandler
+                0x0000000008002e2c                Default_Handler
+                0x0000000008002e2c                ADC_IRQHandler
+                0x0000000008002e2c                DMA1_Stream7_IRQHandler
+                0x0000000008002e2c                DMA2_Stream7_IRQHandler
+                0x0000000008002e2c                I2C3_EV_IRQHandler
+                0x0000000008002e2c                RTC_WKUP_IRQHandler
+                0x0000000008002e2c                DMA1_Stream0_IRQHandler
+                0x0000000008002e2c                WWDG_IRQHandler
+                0x0000000008002e2c                OTG_FS_WKUP_IRQHandler
+                0x0000000008002e2c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008002e2c                USART2_IRQHandler
+                0x0000000008002e2c                I2C2_ER_IRQHandler
+                0x0000000008002e2c                DMA2_Stream1_IRQHandler
+                0x0000000008002e2c                FLASH_IRQHandler
+                0x0000000008002e2c                DMA2_Stream4_IRQHandler
+                0x0000000008002e2c                USART1_IRQHandler
+                0x0000000008002e2c                OTG_FS_IRQHandler
+                0x0000000008002e2c                DMA1_Stream4_IRQHandler
+                0x0000000008002e2c                I2C1_ER_IRQHandler
+                0x0000000008002e2c                DMA2_Stream6_IRQHandler
+                0x0000000008002e2c                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000008002e2e        0x2 
+ .text.__libc_init_array
+                0x0000000008002e30       0x48 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                0x0000000008002e30                __libc_init_array
+ .text.memset   0x0000000008002e78       0x94 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                0x0000000008002e78                memset
+ .text.startup.register_fini
+                0x0000000008002f0c       0x14 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000008002f20        0xc /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                0x0000000008002f20                atexit
+ .text.__libc_fini_array
+                0x0000000008002f2c       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                0x0000000008002f2c                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008002f60        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000008002f60                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008002f64        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000008002f64                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000008002f68       0xc0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                0x0000000008002f68                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x0000000008003028        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008003028        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008003028        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008003028        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000008003028                _init
+ .init          0x000000000800302c        0x8 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008003034        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000008003034                _fini
+ .fini          0x0000000008003038        0x8 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x0000000008003040                . = ALIGN (0x4)
+                0x0000000008003040                _etext = .
+
+.vfp11_veneer   0x0000000008003040        0x0
+ .vfp11_veneer  0x0000000008003040        0x0 linker stubs
+
+.v4_bx          0x0000000008003040        0x0
+ .v4_bx         0x0000000008003040        0x0 linker stubs
+
+.iplt           0x0000000008003040        0x0
+ .iplt          0x0000000008003040        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x0000000008003040      0x8a4
+                0x0000000008003040                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008003040      0x114 startup/stm32f411_periph.o
+                0x0000000008003040                _SCnSCB
+                0x0000000008003044                _SCB
+                0x0000000008003048                _SysTick
+                0x000000000800304c                _NVIC
+                0x0000000008003050                _ITM
+                0x0000000008003054                _DWT
+                0x0000000008003058                _TPI
+                0x000000000800305c                _CoreDebug
+                0x0000000008003060                _MPU
+                0x0000000008003064                _FPU
+                0x0000000008003068                _TIM2
+                0x000000000800306c                _TIM3
+                0x0000000008003070                _TIM4
+                0x0000000008003074                _TIM5
+                0x0000000008003078                _RTC
+                0x000000000800307c                _WWDG
+                0x0000000008003080                _IWDG
+                0x0000000008003084                _I2S2ext
+                0x0000000008003088                _SPI2
+                0x000000000800308c                _SPI3
+                0x0000000008003090                _I2S3ext
+                0x0000000008003094                _USART2
+                0x0000000008003098                _I2C1
+                0x000000000800309c                _I2C2
+                0x00000000080030a0                _I2C3
+                0x00000000080030a4                _PWR
+                0x00000000080030a8                _TIM1
+                0x00000000080030ac                _USART1
+                0x00000000080030b0                _USART6
+                0x00000000080030b4                _ADC1
+                0x00000000080030b8                _ADC
+                0x00000000080030bc                _SDIO
+                0x00000000080030c0                _SPI1
+                0x00000000080030c4                _SPI4
+                0x00000000080030c8                _SYSCFG
+                0x00000000080030cc                _EXTI
+                0x00000000080030d0                _TIM9
+                0x00000000080030d4                _TIM10
+                0x00000000080030d8                _TIM11
+                0x00000000080030dc                _SPI5
+                0x00000000080030e0                _GPIOA
+                0x00000000080030e4                _GPIOB
+                0x00000000080030e8                _GPIOC
+                0x00000000080030ec                _GPIOD
+                0x00000000080030f0                _GPIOE
+                0x00000000080030f4                _GPIOH
+                0x00000000080030f8                _CRC
+                0x00000000080030fc                _RCC
+                0x0000000008003100                _FLASH
+                0x0000000008003104                _DMA1
+                0x0000000008003108                _DMA1_Stream0
+                0x000000000800310c                _DMA1_Stream1
+                0x0000000008003110                _DMA1_Stream2
+                0x0000000008003114                _DMA1_Stream3
+                0x0000000008003118                _DMA1_Stream4
+                0x000000000800311c                _DMA1_Stream5
+                0x0000000008003120                _DMA1_Stream6
+                0x0000000008003124                _DMA1_Stream7
+                0x0000000008003128                _DMA2
+                0x000000000800312c                _DMA2_Stream0
+                0x0000000008003130                _DMA2_Stream1
+                0x0000000008003134                _DMA2_Stream2
+                0x0000000008003138                _DMA2_Stream3
+                0x000000000800313c                _DMA2_Stream4
+                0x0000000008003140                _DMA2_Stream5
+                0x0000000008003144                _DMA2_Stream6
+                0x0000000008003148                _DMA2_Stream7
+                0x000000000800314c                _DBGMCU
+                0x0000000008003150                _USB_OTG_FS
+ .rodata        0x0000000008003154       0x10 startup/system_stm32f4xx.o
+                0x0000000008003154                AHBPrescTable
+ .rodata        0x0000000008003164       0x57 src/main.o
+ *fill*         0x00000000080031bb        0x1 
+ .rodata        0x00000000080031bc      0x724 lib/libstm32f411.a(lcd_128x32.o)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x00000000080038e0        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x00000000080038e0                _global_impure_ptr
+                0x00000000080038e4                . = ALIGN (0x4)
+
+.rel.dyn        0x00000000080038e4        0x0
+ .rel.iplt      0x00000000080038e4        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00000000080038e4        0x0
+                0x00000000080038e4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000000080038e4                __exidx_end = .
+
+.preinit_array  0x00000000080038e4        0x0
+                0x00000000080038e4                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000000080038e4                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000080038e4        0x8
+                0x00000000080038e4                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x00000000080038e4        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x00000000080038e8        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x00000000080038ec                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000080038ec        0x4
+                0x00000000080038ec                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000080038ec        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x00000000080038f0                PROVIDE (__fini_array_end = .)
+                0x00000000080038f0                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x4f4 load address 0x00000000080038f0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000       0xa8 startup/rcc.o
+ .data          0x00000000200000a8        0x4 startup/system_stm32f4xx.o
+                0x00000000200000a8                SystemCoreClock
+ .data          0x00000000200000ac        0x8 lib/libstm32f411.a(lcd_128x32.o)
+ .data          0x00000000200000b4       0x11 lib/libstm32f411.a(util.o)
+ *(.data*)
+ *fill*         0x00000000200000c5        0x3 
+ .data.impure_data
+                0x00000000200000c8      0x428 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x00000000200004f0        0x4 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x00000000200004f0                __atexit_recursive_mutex
+                0x00000000200004f4                . = ALIGN (0x4)
+                0x00000000200004f4                _edata = .
+
+.igot.plt       0x00000000200004f4        0x0 load address 0x0000000008003de4
+ .igot.plt      0x00000000200004f4        0x0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x00000000200004f4                . = ALIGN (0x4)
+
+.bss            0x00000000200004f4      0x2e0 load address 0x0000000008003de4
+                0x00000000200004f4                _sbss = .
+                0x00000000200004f4                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x00000000200004f4       0x1c /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x0000000020000510       0x40 lib/io.o
+ .bss           0x0000000020000550        0xa libshield/sw.o
+ *fill*         0x000000002000055a        0x2 
+ .bss           0x000000002000055c       0x10 lib/libstm32f411.a(timer.o)
+ .bss           0x000000002000056c      0x210 lib/libstm32f411.a(lcd_128x32.o)
+ .bss           0x000000002000077c       0x1c lib/libstm32f411.a(spi.o)
+                0x000000002000078c                cpt
+                0x0000000020000790                cpt1
+                0x0000000020000794                cpt2
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0000000020000798       0x14 startup/system_stm32f4xx.o
+                0x0000000020000798                sysclks
+ COMMON         0x00000000200007ac       0x21 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x00000000200007ac                __lock___atexit_recursive_mutex
+                0x00000000200007b0                __lock___arc4random_mutex
+                0x00000000200007b4                __lock___env_recursive_mutex
+                0x00000000200007b8                __lock___sinit_recursive_mutex
+                0x00000000200007bc                __lock___malloc_recursive_mutex
+                0x00000000200007c0                __lock___at_quick_exit_mutex
+                0x00000000200007c4                __lock___dd_hash_mutex
+                0x00000000200007c8                __lock___tz_mutex
+                0x00000000200007cc                __lock___sfp_recursive_mutex
+ *fill*         0x00000000200007cd        0x3 
+ COMMON         0x00000000200007d0        0x4 lib/libstm32f411.a(spi.o)
+                0x00000000200007d0                sr
+                0x00000000200007d4                . = ALIGN (0x4)
+                0x00000000200007d4                _ebss = .
+                0x00000000200007d4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200007d4      0x600 load address 0x0000000008003de4
+                0x00000000200007d4                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200009d4                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200007d4      0x200 
+                0x0000000020000dd4                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200009d4      0x400 
+                0x0000000020000dd4                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x22 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x39 startup/stm32f411_periph.o
+ .ARM.attributes
+                0x000000000000008f       0x39 startup/sys_handlers.o
+ .ARM.attributes
+                0x00000000000000c8       0x39 startup/rcc.o
+ .ARM.attributes
+                0x0000000000000101       0x39 startup/system_stm32f4xx.o
+ .ARM.attributes
+                0x000000000000013a       0x39 lib/io.o
+ .ARM.attributes
+                0x0000000000000173       0x39 libshield/leds.o
+ .ARM.attributes
+                0x00000000000001ac       0x39 libshield/sw.o
+ .ARM.attributes
+                0x00000000000001e5       0x39 src/main.o
+ .ARM.attributes
+                0x000000000000021e       0x21 startup/startup_stm32f411xe.o
+ .ARM.attributes
+                0x000000000000023f       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000273       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002a7       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002db       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000030f       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000343       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000377       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000003ab       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000003df       0x39 lib/libstm32f411.a(timer.o)
+ .ARM.attributes
+                0x0000000000000418       0x39 lib/libstm32f411.a(lcd_128x32.o)
+ .ARM.attributes
+                0x0000000000000451       0x39 lib/libstm32f411.a(util.o)
+ .ARM.attributes
+                0x000000000000048a       0x39 lib/libstm32f411.a(spi.o)
+ .ARM.attributes
+                0x00000000000004c3       0x22 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000    0x1c615
+ .debug_info    0x0000000000000000     0x29ad startup/stm32f411_periph.o
+ .debug_info    0x00000000000029ad     0x26cd startup/sys_handlers.o
+ .debug_info    0x000000000000507a     0x2844 startup/rcc.o
+ .debug_info    0x00000000000078be     0x272a startup/system_stm32f4xx.o
+ .debug_info    0x0000000000009fe8     0x2b7d lib/io.o
+ .debug_info    0x000000000000cb65     0x26d6 libshield/leds.o
+ .debug_info    0x000000000000f23b     0x2735 libshield/sw.o
+ .debug_info    0x0000000000011970     0x2649 src/main.o
+ .debug_info    0x0000000000013fb9       0x22 startup/startup_stm32f411xe.o
+ .debug_info    0x0000000000013fdb     0x2bba lib/libstm32f411.a(timer.o)
+ .debug_info    0x0000000000016b95     0x2f2f lib/libstm32f411.a(lcd_128x32.o)
+ .debug_info    0x0000000000019ac4      0x134 lib/libstm32f411.a(util.o)
+ .debug_info    0x0000000000019bf8     0x2a1d lib/libstm32f411.a(spi.o)
+
+.debug_abbrev   0x0000000000000000     0x1c31
+ .debug_abbrev  0x0000000000000000      0x1e0 startup/stm32f411_periph.o
+ .debug_abbrev  0x00000000000001e0      0x1ef startup/sys_handlers.o
+ .debug_abbrev  0x00000000000003cf      0x288 startup/rcc.o
+ .debug_abbrev  0x0000000000000657      0x25f startup/system_stm32f4xx.o
+ .debug_abbrev  0x00000000000008b6      0x30a lib/io.o
+ .debug_abbrev  0x0000000000000bc0      0x21a libshield/leds.o
+ .debug_abbrev  0x0000000000000dda      0x21c libshield/sw.o
+ .debug_abbrev  0x0000000000000ff6      0x1ef src/main.o
+ .debug_abbrev  0x00000000000011e5       0x12 startup/startup_stm32f411xe.o
+ .debug_abbrev  0x00000000000011f7      0x313 lib/libstm32f411.a(timer.o)
+ .debug_abbrev  0x000000000000150a      0x399 lib/libstm32f411.a(lcd_128x32.o)
+ .debug_abbrev  0x00000000000018a3       0xb7 lib/libstm32f411.a(util.o)
+ .debug_abbrev  0x000000000000195a      0x2d7 lib/libstm32f411.a(spi.o)
+
+.debug_aranges  0x0000000000000000      0x1a0
+ .debug_aranges
+                0x0000000000000000       0x18 startup/stm32f411_periph.o
+ .debug_aranges
+                0x0000000000000018       0x20 startup/sys_handlers.o
+ .debug_aranges
+                0x0000000000000038       0x20 startup/rcc.o
+ .debug_aranges
+                0x0000000000000058       0x20 startup/system_stm32f4xx.o
+ .debug_aranges
+                0x0000000000000078       0x20 lib/io.o
+ .debug_aranges
+                0x0000000000000098       0x20 libshield/leds.o
+ .debug_aranges
+                0x00000000000000b8       0x20 libshield/sw.o
+ .debug_aranges
+                0x00000000000000d8       0x20 src/main.o
+ .debug_aranges
+                0x00000000000000f8       0x28 startup/startup_stm32f411xe.o
+ .debug_aranges
+                0x0000000000000120       0x20 lib/libstm32f411.a(timer.o)
+ .debug_aranges
+                0x0000000000000140       0x20 lib/libstm32f411.a(lcd_128x32.o)
+ .debug_aranges
+                0x0000000000000160       0x20 lib/libstm32f411.a(util.o)
+ .debug_aranges
+                0x0000000000000180       0x20 lib/libstm32f411.a(spi.o)
+
+.debug_line     0x0000000000000000     0x1f38
+ .debug_line    0x0000000000000000      0x1d5 startup/stm32f411_periph.o
+ .debug_line    0x00000000000001d5      0x209 startup/sys_handlers.o
+ .debug_line    0x00000000000003de      0x2ab startup/rcc.o
+ .debug_line    0x0000000000000689      0x209 startup/system_stm32f4xx.o
+ .debug_line    0x0000000000000892      0x3da lib/io.o
+ .debug_line    0x0000000000000c6c      0x215 libshield/leds.o
+ .debug_line    0x0000000000000e81      0x21c libshield/sw.o
+ .debug_line    0x000000000000109d      0x208 src/main.o
+ .debug_line    0x00000000000012a5       0x79 startup/startup_stm32f411xe.o
+ .debug_line    0x000000000000131e      0x389 lib/libstm32f411.a(timer.o)
+ .debug_line    0x00000000000016a7      0x510 lib/libstm32f411.a(lcd_128x32.o)
+ .debug_line    0x0000000000001bb7       0x95 lib/libstm32f411.a(util.o)
+ .debug_line    0x0000000000001c4c      0x2ec lib/libstm32f411.a(spi.o)
+
+.debug_str      0x0000000000000000     0x1dd5
+ .debug_str     0x0000000000000000     0x1041 startup/stm32f411_periph.o
+                                       0x1101 (size before relaxing)
+ .debug_str     0x0000000000001041       0xa7 startup/sys_handlers.o
+                                       0x118d (size before relaxing)
+ .debug_str     0x00000000000010e8      0x1ab startup/rcc.o
+                                       0x129d (size before relaxing)
+ .debug_str     0x0000000000001293       0x5b startup/system_stm32f4xx.o
+                                       0x1213 (size before relaxing)
+ .debug_str     0x00000000000012ee      0x4f3 lib/io.o
+                                       0x15ec (size before relaxing)
+ .debug_str     0x00000000000017e1       0x3b libshield/leds.o
+                                       0x1121 (size before relaxing)
+ .debug_str     0x000000000000181c       0x53 libshield/sw.o
+                                       0x1139 (size before relaxing)
+ .debug_str     0x000000000000186f       0x10 src/main.o
+                                       0x10f6 (size before relaxing)
+ .debug_str     0x000000000000187f       0x2c startup/startup_stm32f411xe.o
+                                         0x59 (size before relaxing)
+ .debug_str     0x00000000000018ab      0x237 lib/libstm32f411.a(timer.o)
+                                       0x1605 (size before relaxing)
+ .debug_str     0x0000000000001ae2      0x215 lib/libstm32f411.a(lcd_128x32.o)
+                                       0x1361 (size before relaxing)
+ .debug_str     0x0000000000001cf7       0x24 lib/libstm32f411.a(util.o)
+                                        0x135 (size before relaxing)
+ .debug_str     0x0000000000001d1b       0xba lib/libstm32f411.a(spi.o)
+                                       0x15a5 (size before relaxing)
+
+.comment        0x0000000000000000       0xfe
+ .comment       0x0000000000000000       0x7f startup/stm32f411_periph.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 startup/sys_handlers.o
+ .comment       0x000000000000007f       0x80 startup/rcc.o
+ .comment       0x000000000000007f       0x80 startup/system_stm32f4xx.o
+ .comment       0x000000000000007f       0x80 lib/io.o
+ .comment       0x000000000000007f       0x80 libshield/leds.o
+ .comment       0x000000000000007f       0x80 libshield/sw.o
+ .comment       0x000000000000007f       0x80 src/main.o
+ .comment       0x000000000000007f       0x7f lib/libstm32f411.a(timer.o)
+                                         0x80 (size before relaxing)
+ .comment       0x00000000000000fe       0x80 lib/libstm32f411.a(lcd_128x32.o)
+ .comment       0x00000000000000fe       0x80 lib/libstm32f411.a(util.o)
+ .comment       0x00000000000000fe       0x80 lib/libstm32f411.a(spi.o)
+
+.debug_frame    0x0000000000000000      0xba4
+ .debug_frame   0x0000000000000000       0xa0 startup/sys_handlers.o
+ .debug_frame   0x00000000000000a0       0x74 startup/rcc.o
+ .debug_frame   0x0000000000000114       0x40 startup/system_stm32f4xx.o
+ .debug_frame   0x0000000000000154      0x180 lib/io.o
+ .debug_frame   0x00000000000002d4       0x98 libshield/leds.o
+ .debug_frame   0x000000000000036c       0xa8 libshield/sw.o
+ .debug_frame   0x0000000000000414       0x28 src/main.o
+ .debug_frame   0x000000000000043c       0x2c /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000468       0x38 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000004a0       0x5c /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000004fc       0x20 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000000000000051c       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000550       0xb0 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000600       0x34 /local/sdk_elec/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000634      0x188 lib/libstm32f411.a(timer.o)
+ .debug_frame   0x00000000000007bc      0x2c0 lib/libstm32f411.a(lcd_128x32.o)
+ .debug_frame   0x0000000000000a7c       0x40 lib/libstm32f411.a(util.o)
+ .debug_frame   0x0000000000000abc       0xe8 lib/libstm32f411.a(spi.o)
+
+.debug_ranges   0x0000000000000000       0x38
+ .debug_ranges  0x0000000000000000       0x20 startup/startup_stm32f411xe.o
+ .debug_ranges  0x0000000000000020       0x18 lib/libstm32f411.a(spi.o)
