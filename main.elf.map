@@ -693,32 +693,32 @@ OUTPUT(main.elf elf32-littlearm)
  .debug_line    0x0000000000001bb7       0x95 lib/libstm32f411.a(util.o)
  .debug_line    0x0000000000001c4c      0x2ec lib/libstm32f411.a(spi.o)
 
-.debug_str      0x0000000000000000     0x1dd5
- .debug_str     0x0000000000000000     0x1041 startup/stm32f411_periph.o
-                                       0x1101 (size before relaxing)
- .debug_str     0x0000000000001041       0xa7 startup/sys_handlers.o
-                                       0x118d (size before relaxing)
- .debug_str     0x00000000000010e8      0x1ab startup/rcc.o
-                                       0x129d (size before relaxing)
- .debug_str     0x0000000000001293       0x5b startup/system_stm32f4xx.o
-                                       0x1213 (size before relaxing)
- .debug_str     0x00000000000012ee      0x4f3 lib/io.o
-                                       0x15ec (size before relaxing)
- .debug_str     0x00000000000017e1       0x3b libshield/leds.o
-                                       0x1121 (size before relaxing)
- .debug_str     0x000000000000181c       0x53 libshield/sw.o
-                                       0x1139 (size before relaxing)
- .debug_str     0x000000000000186f       0x10 src/main.o
-                                       0x10f6 (size before relaxing)
- .debug_str     0x000000000000187f       0x2c startup/startup_stm32f411xe.o
-                                         0x59 (size before relaxing)
- .debug_str     0x00000000000018ab      0x237 lib/libstm32f411.a(timer.o)
+.debug_str      0x0000000000000000     0x1dce
+ .debug_str     0x0000000000000000     0x103a startup/stm32f411_periph.o
+                                       0x10fa (size before relaxing)
+ .debug_str     0x000000000000103a       0xa7 startup/sys_handlers.o
+                                       0x1186 (size before relaxing)
+ .debug_str     0x00000000000010e1      0x1ab startup/rcc.o
+                                       0x1296 (size before relaxing)
+ .debug_str     0x000000000000128c       0x5b startup/system_stm32f4xx.o
+                                       0x120c (size before relaxing)
+ .debug_str     0x00000000000012e7      0x4f3 lib/io.o
+                                       0x15e5 (size before relaxing)
+ .debug_str     0x00000000000017da       0x3b libshield/leds.o
+                                       0x111a (size before relaxing)
+ .debug_str     0x0000000000001815       0x53 libshield/sw.o
+                                       0x1132 (size before relaxing)
+ .debug_str     0x0000000000001868       0x10 src/main.o
+                                       0x10ef (size before relaxing)
+ .debug_str     0x0000000000001878       0x2c startup/startup_stm32f411xe.o
+                                         0x52 (size before relaxing)
+ .debug_str     0x00000000000018a4      0x237 lib/libstm32f411.a(timer.o)
                                        0x1605 (size before relaxing)
- .debug_str     0x0000000000001ae2      0x215 lib/libstm32f411.a(lcd_128x32.o)
+ .debug_str     0x0000000000001adb      0x215 lib/libstm32f411.a(lcd_128x32.o)
                                        0x1361 (size before relaxing)
- .debug_str     0x0000000000001cf7       0x24 lib/libstm32f411.a(util.o)
+ .debug_str     0x0000000000001cf0       0x24 lib/libstm32f411.a(util.o)
                                         0x135 (size before relaxing)
- .debug_str     0x0000000000001d1b       0xba lib/libstm32f411.a(spi.o)
+ .debug_str     0x0000000000001d14       0xba lib/libstm32f411.a(spi.o)
                                        0x15a5 (size before relaxing)
 
 .comment        0x0000000000000000       0xfe
